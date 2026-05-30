@@ -1,0 +1,17 @@
+opencv-python
+opencv-contrib-python
+face-recognition
+face-recognition-models
+dlib==19.24.99
+numpy<2.0
+pandas
+streamlit
+mysql-connector-python
+Pillow
+python-dotenv
+matplotlib
+plotly
+scikit-learn
+streamlit-option-menu
+tqdm
+setuptools
